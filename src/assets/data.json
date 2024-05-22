@@ -1,0 +1,56 @@
+{
+    "categerios": [
+        {
+            "value": 40,
+            "heading": "Laptop"
+        },
+        {
+            "value":10,
+            "heading":"Iphone"
+        },
+        {
+            "value":100,
+            "heading":"Shoes"
+        },
+
+        {
+            "value":90,
+            "heading":"Camera"
+        },
+        {
+            "value":67,
+            "heading":"Ipads"
+        }
+    ],
+
+    "transaction": [
+        {
+          "id": "ksdnfkjsdfx",
+          "amount": 4000,
+          "quantity": 4,
+          "discount": 300,
+          "status": "Processing"
+        },
+        {
+          "id": "sdsdssdsd",
+          "amount": 5100,
+          "quantity": 2,
+          "discount": 900,
+          "status": "Processing"
+        },
+        {
+          "id": "sdsdcvsssdsd",
+          "amount": 13000,
+          "quantity": 91,
+          "discount": 0,
+          "status": "Shipped"
+        },
+        {
+          "id": "dfddddfd",
+          "amount": 2300,
+          "quantity": 4,
+          "discount": 2000,
+          "status": "Processing"
+        }
+      ]
+    }
